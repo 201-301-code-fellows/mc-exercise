@@ -6,4 +6,4 @@ This is my merge conflict
 
 Lewis is adding to the Fubar.md file that contains the following information that will be removed when the Fubar.md file is removed from the Fubar
 
-monica broke stuff, im sorry. merge conflict fubar.md
+https://github.com/201group-a/mc-exercise.githttps://github.com/201group-a/mc-exercise.githttps://github.com/201group-a/mc-exercise.githttps://github.com/201group-a/mc-exercise.githttps://github.com/201group-a/mc-exercise.git Lewis wrong this
